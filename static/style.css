@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    font-family: raleway;
+}
+
+h1 {
+    background-color: purple;
+    color: aliceblue;
+    padding: 30px;
+}
